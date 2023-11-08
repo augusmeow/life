@@ -1,0 +1,15 @@
+import{_ as a,c as n,o as s,Q as e}from"./chunks/framework.1cc28bed.js";const _=JSON.parse('{"title":"规划指南","description":"","frontmatter":{"outline":[2,4]},"headers":[],"relativePath":"trip/index.md","filePath":"trip/index.md","lastUpdated":1695129682000}'),l={name:"trip/index.md"},o=e(`<h1 id="规划指南" tabindex="-1">规划指南 <a class="header-anchor" href="#规划指南" aria-label="Permalink to &quot;规划指南&quot;">​</a></h1><blockquote><p>两岸青山相对出 孤帆一片日边来</p></blockquote><p>旅途不能过于匆忙。多在当地感受本地的文化，博物馆是城市历史的缩影，寻史探迹。仓促之行，很难品味感受整个博物馆，要提前规划好。<br> 而各个城市的商场还是别考虑了。<br> 美食最好不要考虑连锁店，除非没得吃。</p><p>到达当地时，在地图上将推进美食、景点、机场火车站标记起来，然后自己计划路线。</p><h2 id="计划" tabindex="-1">计划 <a class="header-anchor" href="#计划" aria-label="Permalink to &quot;计划&quot;">​</a></h2><blockquote><p>下面的计划不再包含飞机出行，需要飞机出行的地方，国内暂时没有需求，飞机计划<a href="./suixinfei">看这里</a>，高铁出行票价<a href="./high-speed-rail-fare">看这里</a></p></blockquote><ul><li>浙江全市。杭州始发，高铁玩</li><li>江苏全市。杭州始发，高铁玩</li><li>河南 —— <a href="./china/henan/#开封">开封</a> <a href="./china/henan/#洛阳">洛阳</a>，等回河南再玩</li><li>湖北 —— <a href="./china/hubei/#武汉">武汉</a>。杭州/郑州始发，高铁玩</li><li><a href="./china/tianjin">天津</a>。杭州始发，高铁玩，注意提前看二等动卧很不错的选择</li></ul><h2 id="格式" tabindex="-1">格式 <a class="header-anchor" href="#格式" aria-label="Permalink to &quot;格式&quot;">​</a></h2><div class="language-markdown vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki github-dark vp-code-dark"><code><span class="line"><span style="color:#79B8FF;font-weight:bold;"># 市</span></span>
+<span class="line"><span style="color:#E1E4E8;">表格汇总景点(便于电脑端)  </span></span>
+<span class="line"><span style="color:#E1E4E8;">分段说明景点(便于手机端)</span></span>
+<span class="line"><span style="color:#79B8FF;font-weight:bold;">## 计划/推荐/安排</span></span>
+<span class="line"><span style="color:#79B8FF;font-weight:bold;">### 多种安排</span></span>
+<span class="line"><span style="color:#79B8FF;font-weight:bold;">## 美食</span></span>
+<span class="line"><span style="color:#79B8FF;font-weight:bold;">## 游记</span></span>
+<span class="line"><span style="color:#79B8FF;font-weight:bold;">### 多次游记</span></span></code></pre><pre class="shiki github-light vp-code-light"><code><span class="line"><span style="color:#005CC5;font-weight:bold;"># 市</span></span>
+<span class="line"><span style="color:#24292E;">表格汇总景点(便于电脑端)  </span></span>
+<span class="line"><span style="color:#24292E;">分段说明景点(便于手机端)</span></span>
+<span class="line"><span style="color:#005CC5;font-weight:bold;">## 计划/推荐/安排</span></span>
+<span class="line"><span style="color:#005CC5;font-weight:bold;">### 多种安排</span></span>
+<span class="line"><span style="color:#005CC5;font-weight:bold;">## 美食</span></span>
+<span class="line"><span style="color:#005CC5;font-weight:bold;">## 游记</span></span>
+<span class="line"><span style="color:#005CC5;font-weight:bold;">### 多次游记</span></span></code></pre></div>`,9),t=[o];function p(i,c,r,d,h,f){return s(),n("div",null,t)}const u=a(l,[["render",p]]);export{_ as __pageData,u as default};
